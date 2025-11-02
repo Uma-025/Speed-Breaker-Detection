@@ -27,3 +27,7 @@ The aim is to enhance road safety by providing real-time alerts for speed breake
 - Successfully detected speed breakers in varied lighting and road conditions.
 - The model achieved high precision and recall after tuning hyperparameters.
 - Demonstrated robust real-time detection using the OpenCV interface.
+
+**Acknowledgements**
+- Ultralytics YOLOv5 for model architecture
+- Open-source road datasets and community contributors
